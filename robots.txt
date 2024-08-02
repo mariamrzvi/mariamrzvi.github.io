@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mariamrzvi.github.io/my-site//sitemap.xml
+Sitemap: https://mariamrzvi.github.io/sitemap.xml
